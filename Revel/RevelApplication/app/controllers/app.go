@@ -9,5 +9,11 @@ type App struct {
 }
 
 func (c App) Index() revel.Result {
-	return c.Render()
+	datos := map[string]interface{}{
+		"titulo":      "Página de inicio",
+		"mensaje":     "¡Hola desde Revel!",
+		"CompanyName": "RevelApplication",
+	}
+
+	return c.Render(datos)
 }
