@@ -1,17 +1,34 @@
 package routes
 
 import (
+	"html/template"
+	"io"
 	"net/http"
 
 	"github.com/labstack/echo/v4"
 )
 
-func SetupRoutes(e *echo.Echo) {
-	e.GET("/", func(c echo.Context) error {
-		//return c.String(http.StatusOK, "¡Hola, mundo!")
+type TemplateRenderer struct {
+	templates *template.Template
+}
 
-		return c.JSON(http.StatusOK, map[string]string{
-			"message": "¡Hola desde Echo!",
+func (t *TemplateRenderer) Render(w io.Writer, name string, data interface{}, c echo.Context) error {
+	return t.templates.ExecuteTemplate(w, name, data)
+}
+
+func SetupRoutes(e *echo.Echo) {
+
+	renderer := &TemplateRenderer{
+		templates: template.Must(template.ParseGlob("templates/*.html")),
+	}
+
+	e.Renderer = renderer
+
+	e.GET("/", func(c echo.Context) error {
+		return c.Render(http.StatusOK, "index.html", map[string]string{
+			"Title":   "Mi aplicación Echo",
+			"Heading": "¡Hola, mundo!",
+			"Message": "Bienvenido a mi aplicación web con Echo y plantillas HTML.",
 		})
 	})
 
@@ -23,4 +40,6 @@ func SetupRoutes(e *echo.Echo) {
 		nombre := c.Param("nombre")
 		return c.String(http.StatusOK, "¡Hola, "+nombre+"!")
 	})
+
+	e.Static("/static", "static")
 }
