@@ -16,7 +16,7 @@ func main() {
 
 	r.Use(LogginMiddleware)
 
-	log.Println("Servidor Gorilla en ejecución en http://127.0.0.1:8080")
+	log.Println("Servidor Gorilla en ejecución en http://127.0.0.1:8282")
 	http.ListenAndServe(":8282", r)
 }
 
