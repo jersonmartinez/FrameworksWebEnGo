@@ -26,11 +26,11 @@ Este repositorio contiene varios proyectos desarrollados utilizando diferentes f
 
 ## Enlaces a Cursos en YouTube
 
-| Framework | Título del Curso                                                                      | Miniatura                                                          |
-| --------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| Fundamentos de Frameworks Web en Go | [Curso de Gin](https://youtu.be/wL1ReDpZ64c)         | ![Miniatura de Gin](https://img.youtube.com/vi/wL1ReDpZ64c/0.jpg)     |
-| Gin       | [Curso de Gin](https://youtu.be/Wpma2kD-oBM)         | ![Miniatura de Gin](https://img.youtube.com/vi/Wpma2kD-oBM/0.jpg)     |
-| Echo      | [Curso de Echo](https://youtu.be/7cROq0Npc7U)       | ![Miniatura de Echo](https://img.youtube.com/vi/7cROq0Npc7U/0.jpg)    |
-| Revel     | [Curso de Revel](https://youtu.be/Bwy-aMjh2iI)     | ![Miniatura de Revel](https://img.youtube.com/vi/Bwy-aMjh2iI/0.jpg)   |
-| Gorilla   | [Curso de Gorilla](https://youtu.be/O5Fr1S-BvKY) | ![Miniatura de Gorilla](https://img.youtube.com/vi/O5Fr1S-BvKY/0.jpg) |
-| Waiting for Fiber     | [Curso de Fiber](https://www.youtube.com/results?search_query=fiber+framework+go)     | ![Miniatura de Fiber](https://img.youtube.com/vi/VIDEO_ID/0.jpg)   |
+|  Título del Curso | Miniatura |
+| --------- | ------------------------------------------------------------------ |
+| [Curso de Gin](https://youtu.be/wL1ReDpZ64c)         | ![Miniatura de Gin](https://img.youtube.com/vi/wL1ReDpZ64c/0.jpg)     |
+| [Curso de Gin](https://youtu.be/Wpma2kD-oBM)         | ![Miniatura de Gin](https://img.youtube.com/vi/Wpma2kD-oBM/0.jpg)     |
+| [Curso de Echo](https://youtu.be/7cROq0Npc7U)        | ![Miniatura de Echo](https://img.youtube.com/vi/7cROq0Npc7U/0.jpg)    |
+| [Curso de Revel](https://youtu.be/Bwy-aMjh2iI)       | ![Miniatura de Revel](https://img.youtube.com/vi/Bwy-aMjh2iI/0.jpg)   |
+| [Curso de Gorilla](https://youtu.be/O5Fr1S-BvKY)     | ![Miniatura de Gorilla](https://img.youtube.com/vi/O5Fr1S-BvKY/0.jpg) |
+| [Curso de Fiber](https://www.youtube.com/results?search_query=fiber+framework+go)     | ![Miniatura de Fiber](https://img.youtube.com/vi/VIDEO_ID/0.jpg)   |
