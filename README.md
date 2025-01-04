@@ -17,11 +17,12 @@ Este repositorio contiene varios proyectos desarrollados utilizando diferentes f
 
 | Framework | Documentación | Artes |
 |-----------|---------------|-------|
-| Gin       | [Documentación de Gin](https://github.com/jersonmartinez/FrameworksWebEnGo/tree/main/docs/Gin%20Framework/Documentation) | [Presentaciones de Gin](./docs/Gin Framework/Arts) |
-| Echo      | [Documentación de Echo](https://github.com/jersonmartinez/FrameworksWebEnGo/tree/main/docs/Echo%20Framework/Documentation) | [Presentaciones de Echo](./docs/Echo Framework/Arts) |
-| Revel     | [Documentación de Revel](https://github.com/jersonmartinez/FrameworksWebEnGo/tree/main/docs/Revel%20Framework/Documentation) | [Presentaciones de Revel](./docs/Revel Framework/Arts) |
-| Gorilla   | [Documentación de Gorilla](https://github.com/jersonmartinez/FrameworksWebEnGo/tree/main/docs/Gorilla%20Framework/Documentation) | [Presentaciones de Gorilla](./docs/Gorilla Framework/Arts) |
-| Fiber     | [Documentación de Fiber](https://github.com/jersonmartinez/FrameworksWebEnGo/tree/main/docs/Fiber%20Framework/Documentation) | [Presentaciones de Fiber](./docs/Fiber Framework/Arts) |
+| Fundamentos de los Frameworks Web en Go       | [Documentación de Frameworks en Go](https://github.com/jersonmartinez/FrameworksWebEnGo/tree/main/docs/Fundamentos%20de%20los%20Frameworks%20Web%20en%20Go/Documentation) | [Presentaciones de Gin](https://github.com/jersonmartinez/FrameworksWebEnGo/tree/main/docs/Fundamentos%20de%20los%20Frameworks%20Web%20en%20Go/Arts) |
+| Gin       | [Documentación de Gin](https://github.com/jersonmartinez/FrameworksWebEnGo/tree/main/docs/Gin%20Framework/Documentation) | [Artes del curso de Gin](https://github.com/jersonmartinez/FrameworksWebEnGo/tree/main/docs/Gin%20Framework/Arts) |
+| Echo      | [Documentación de Echo](https://github.com/jersonmartinez/FrameworksWebEnGo/tree/main/docs/Echo%20Framework/Documentation) | [Artes del curso de Echo](https://github.com/jersonmartinez/FrameworksWebEnGo/tree/main/docs/Echo%20Framework/Arts) |
+| Revel     | [Documentación de Revel](https://github.com/jersonmartinez/FrameworksWebEnGo/tree/main/docs/Revel%20Framework/Documentation) | [Artes del curso de Revel](https://github.com/jersonmartinez/FrameworksWebEnGo/tree/main/docs/Revel%20Framework/Arts) |
+| Gorilla   | [Documentación de Gorilla](https://github.com/jersonmartinez/FrameworksWebEnGo/tree/main/docs/Gorilla%20Framework/Documentation) | [Artes del curso de Gorilla](https://github.com/jersonmartinez/FrameworksWebEnGo/tree/main/docs/Gorilla%20Framework/Arts) |
+| Fiber     | [Documentación de Fiber](https://github.com/jersonmartinez/FrameworksWebEnGo/tree/main/docs/Fiber%20Framework/Documentation) | [Artes del curso de Fiber](https://github.com/jersonmartinez/FrameworksWebEnGo/tree/main/docs/Fiber%20Framework/Arts) |
 
 ## Enlaces a Cursos en YouTube
 
