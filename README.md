@@ -17,12 +17,11 @@ Este repositorio contiene varios proyectos desarrollados utilizando diferentes f
 
 | Framework | Documentación | Artes |
 |-----------|---------------|-------|
-| Gin       | [Documentación de Gin](./docs/Gin Framework/Documentations) | [Presentaciones de Gin](./docs/Gin Framework/Arts) |
-| Echo      | [Documentación de Echo](./docs/Echo Framework/Documentations) | [Presentaciones de Echo](./docs/Echo Framework/Arts) |
-| Revel     | [Documentación de Revel](./docs/Revel Framework/Documentations) | [Presentaciones de Revel](./docs/Revel Framework/Arts) |
-| Gorilla   | [Documentación de Gorilla](./docs/Gorilla Framework/Documentations) | [Presentaciones de Gorilla](./docs/Gorilla Framework/Arts) |
-| Fiber     | [Documentación de Fiber](./docs/Fiber Framework/Documentations) | [Presentaciones de Fiber](./docs/Fiber Framework/Arts) |
-| Beego     | [Documentación de Beego](./docs/Beego Framework/Documentations) | [Presentaciones de Beego](./docs/Beego Framework/Arts) |
+| Gin       | [Documentación de Gin](https://github.com/jersonmartinez/FrameworksWebEnGo/tree/main/docs/Gin%20Framework/Documentation) | [Presentaciones de Gin](./docs/Gin Framework/Arts) |
+| Echo      | [Documentación de Echo](https://github.com/jersonmartinez/FrameworksWebEnGo/tree/main/docs/Echo%20Framework/Documentation) | [Presentaciones de Echo](./docs/Echo Framework/Arts) |
+| Revel     | [Documentación de Revel](https://github.com/jersonmartinez/FrameworksWebEnGo/tree/main/docs/Revel%20Framework/Documentation) | [Presentaciones de Revel](./docs/Revel Framework/Arts) |
+| Gorilla   | [Documentación de Gorilla](https://github.com/jersonmartinez/FrameworksWebEnGo/tree/main/docs/Gorilla%20Framework/Documentation) | [Presentaciones de Gorilla](./docs/Gorilla Framework/Arts) |
+| Fiber     | [Documentación de Fiber](https://github.com/jersonmartinez/FrameworksWebEnGo/tree/main/docs/Fiber%20Framework/Documentation) | [Presentaciones de Fiber](./docs/Fiber Framework/Arts) |
 
 ## Enlaces a Cursos en YouTube
 
