@@ -32,4 +32,4 @@ This repository contains several projects developed using different Go framework
 | [Echo Course](https://youtu.be/7cROq0Npc7U)        | ![Thumbnail of Echo](https://img.youtube.com/vi/7cROq0Npc7U/0.jpg)    |
 | [Revel Course](https://youtu.be/Bwy-aMjh2iI)       | ![Thumbnail of Revel](https://img.youtube.com/vi/Bwy-aMjh2iI/0.jpg)   |
 | [Gorilla Course](https://youtu.be/O5Fr1S-BvKY)     | ![Thumbnail of Gorilla](https://img.youtube.com/vi/O5Fr1S-BvKY/0.jpg) |
-<!-- | [Fiber Course](https://www.youtube.com/results?search_query=fiber+framework+go)     | ![Thumbnail of Fiber](https://img.youtube.com/vi/VIDEO_ID/0.jpg)   | -->
+| [Fiber Course](https://youtu.be/2cS5zEIh_zg)     | ![Thumbnail of Fiber](https://img.youtube.com/vi/2cS5zEIh_zg/0.jpg)   |
